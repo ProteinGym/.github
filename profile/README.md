@@ -5,9 +5,9 @@ ProteinGym has become a widely used resource for comparing the ability of models
 ## Mission
 
 To advance protein engineering and computational biology by providing:
-- **Structured, standardized datasets** for protein variant effect prediction
-- **Reproducible benchmarking frameworks** for model evaluation
-- **Open-source tools** that facilitate research and development in protein science
+- Structured, standardized datasets for protein variant effect prediction
+- Reproducible benchmarking frameworks for model evaluation
+- Open-source tools that facilitate research and development in protein science
 
 ## Core Repositories
 
