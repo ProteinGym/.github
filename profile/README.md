@@ -1,7 +1,7 @@
 ## Overview
 
 > [!IMPORTANT]
-> This is the workspace for the ProteinGym-base and ProteinGym-benchmark currently under construction in collaboration with the Marks lab. 
+> This is the workspace for the ProteinGym-base and ProteinGym-benchmark currently under construction in collaboration with the [Debora Marks lab](https://www.deboramarkslab.com/). 
 > The original proteingym can be found [here](https://github.com/OATML-Markslab/ProteinGym)
 > 
 > [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15293562.svg)](https://doi.org/10.5281/zenodo.15293562)
@@ -51,7 +51,7 @@ To advance protein engineering and computational biology by providing:
 ## Architecture & Integration
 
 ```
-┌─────────────────┐    uses datasets    ┌──────────────────┐
+┌─────────────────┐    uses datasets     ┌──────────────────┐
 │   pg-benchmark  │ ◄─────────────────── │    pg-base       │
 │                 │                      │                  │
 │ • Model repos   │                      │ • Dataset class  │
@@ -88,6 +88,3 @@ To advance protein engineering and computational biology by providing:
 - **Data Versioning**: DVC
 - **Package Management**: UV/pip
 
----
-
-*This organization represents a collaborative effort to standardize and advance protein variant effect prediction research through open-source tools and datasets.*
