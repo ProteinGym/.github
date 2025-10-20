@@ -3,6 +3,7 @@
 > [!IMPORTANT]
 > This is the workspace for the ProteinGym-base and ProteinGym-benchmark currently under construction in collaboration with the Marks lab. 
 > The original proteingym can be found [here](https://github.com/OATML-Markslab/ProteinGym)
+> 
 > [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15293562.svg)](https://doi.org/10.5281/zenodo.15293562)
 > [![PyPI version](https://img.shields.io/pypi/v/proteingym.svg)](https://pypi.org/project/proteingym/)
 > [![License: MIT](https://img.shields.io/badge/license-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
