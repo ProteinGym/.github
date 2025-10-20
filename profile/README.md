@@ -99,10 +99,6 @@ To advance protein engineering and computational biology by providing:
 - **Data Versioning**: DVC
 - **Package Management**: UV/pip
 
-## License & Usage
-
-Both repositories are designed for research and development in computational biology, with appropriate licensing for academic and commercial use.
-
 ---
 
 *This organization represents a collaborative effort to standardize and advance protein variant effect prediction research through open-source tools and datasets.*
