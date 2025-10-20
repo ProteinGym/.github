@@ -1,4 +1,4 @@
-# ProteinGym Organization Profile
+# The ProteinGym Organization
 
 ## Overview
 
