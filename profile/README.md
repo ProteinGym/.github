@@ -61,27 +61,6 @@ To advance protein engineering and computational biology by providing:
 └─────────────────┘                      └──────────────────┘
 ```
 
-## Community & Collaboration
-
-### Research Focus Areas
-- Protein variant effect prediction
-- Machine learning for protein engineering
-- Computational biology benchmarking
-- Reproducible research practices
-
-### Contribution Guidelines
-- Both repositories follow standardized development practices
-- Pre-commit hooks for code quality
-- Comprehensive testing with pytest
-- Documentation-driven development
-- Architecture Decision Records (ADRs) for design decisions
-
-### Standards & Best Practices
-- **Code Quality**: Ruff linting, type hints, comprehensive testing
-- **Documentation**: Jupyter notebooks, markdown guides, API documentation
-- **Reproducibility**: Docker containers, dependency locking, DVC pipelines
-- **Data Management**: Structured schemas, version control, archival formats
-
 ## Getting Started
 
 ### For Dataset Users
