@@ -61,22 +61,7 @@ To advance protein engineering and computational biology by providing:
 
 ## Getting Started
 
-### For Dataset Users
-1. Install `proteingym-base`: `pip install git+https://github.com/ProteinGym/proteingym-base.git`
-2. Follow the tutorials in `notebooks/` for your first introduction
-3. Load datasets using manifest files
-4. Access structured protein data (sequences, structures, MSAs, assays)
-
-### For Model Developers
-1. Use `proteingym-base` to work with standardized datasets
-2. Follow the tutorials in `notebooks/` for your first introduction
-3. Implement models following `proteingym-benchmark` specifications
-4. Submit models for benchmarking evaluation
-
-### For Researchers
-1. Access curated protein datasets through `proteingym-base`
-2. Compare model performance using `proteingym-benchmark` results
-3. Contribute new datasets or models to the ecosystem
+Start with reading the [tutorial notebooks](https://github.com/ProteinGym/proteingym-base/tree/main/notebooks) in proteingym-base. These explain creating datasets and working with the datasets.
 
 ## Technical Requirements
 
