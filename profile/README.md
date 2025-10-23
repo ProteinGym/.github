@@ -1,8 +1,8 @@
 ## Overview
 
 > [!IMPORTANT]
-> This is the workspace for the ProteinGym-base and ProteinGym-benchmark currently under construction in collaboration with the [Debora Marks lab](https://www.deboramarkslab.com/) and the ProteinGym team. 
-> **The original proteingym can be found [here](https://github.com/OATML-Markslab/ProteinGym)**
+> This is the workspace for the ProteinGym-base and ProteinGym-benchmark that aim to bring more structure to the ProteinGym project. 
+> **The original ProteinGym repository can be found [here](https://github.com/OATML-Markslab/ProteinGym)**
 > 
 > [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15293562.svg)](https://doi.org/10.5281/zenodo.15293562)
 > [![PyPI version](https://img.shields.io/pypi/v/proteingym.svg)](https://pypi.org/project/proteingym/)
